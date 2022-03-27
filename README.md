@@ -1,0 +1,2 @@
+# Unity2Foundry-Module
+[Unity2Foundry](https://github.com/CoolcatFVTT/Unity2Foundry-Project) is a toolset that allows you to render maps from within [Unity Editor](https://unity.com/), while also generating walls data. This FVTT module adds support for projected walls which are needed when using isometric or 3D-projected maps. This works by adding dynamic walls at runtime, just in the right position to produce the correct vision cone.

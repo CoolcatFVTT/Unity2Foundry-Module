@@ -1,0 +1,18 @@
+{
+  "name": "unity2foundry",
+  "title": "Unity2Foundry",
+  "description": "Unity2Foundry is a toolset that allows you to render maps from within Unity Editor, while also generating walls data. This FVTT module adds support for projected walls which are needed when using isometric or 3D-projected maps. This works by adding dynamic walls at runtime, just in the right position to produce the correct vision cone.",
+  "version": "0.1.0",
+  "author": "CoolcatFVTT",
+  "scripts": [
+    "unity2foundry.js"
+  ],
+  "dependencies": [
+    {
+        "name": "lib-wrapper"
+    }
+  ],
+  "minimumCoreVersion": "9.242",
+  "compatibleCoreVersion": "9",
+  "license": "LGPL 3.0"
+}
