@@ -17,5 +17,5 @@
   "license": "LGPL 3.0",
   "url": "https://github.com/CoolcatFVTT/Unity2Foundry-Module",
   "manifest": "https://raw.githubusercontent.com/CoolcatFVTT/Unity2Foundry-Module/main/module.json",
-  "download": "https://github.com/CoolcatFVTT/Unity2Foundry-Module/releases/download/v0.1.0/Unity2Foundry-Module-0.1.0.zip"
+  "download": "https://github.com/CoolcatFVTT/Unity2Foundry-Module/archive/refs/tags/v0.1.0.zip"
 }
